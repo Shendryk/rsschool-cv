@@ -3,9 +3,10 @@
 # Stanislav Shendryk 
 ![Stanislav Shendryk](https://avatars0.githubusercontent.com/u/24877894?s=460&v=4)
 ## Contact info
-- **Phone:** +38 (099) 160 90 85
-- **Email:** <stanislav.shendryk@gmail.com>
-- **Telegram:** [webJoker](https://t.me/webjoker)
+- Phone: +38 (099) 160 90 85
+- Email: <stanislav.shendryk@gmail.com>
+- Telegram: [webJoker](https://t.me/webjoker)
+
 ---
 ## Summary
 I want to fully devote myself to developing Front-end and improve it. I have a great desire to work and study in this area. Start my career as a junior software engineer.
@@ -36,6 +37,7 @@ You can see it here - [https://github.com/shendryk/](https://github.com/shendryk
 ## Education
 - htmlacademy
 - EPAM
+
 --- 
 ## English
 Pre-Intermediate
