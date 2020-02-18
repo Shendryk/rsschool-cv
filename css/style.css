@@ -1,0 +1,13 @@
+.wrapper {
+    width: 1000px;
+    margin: 0 auto;
+}
+
+header a {
+    text-align: right;
+}
+
+footer  {
+
+    text-align: center;
+}
